@@ -22,9 +22,6 @@ This repository is dedicated to projects focused on Python for data analysis, da
  - Cheat sheets for these projects are available on the website:  
   👉 **Website:** https://your-website-here.com
 
-- Each project also has a walkthrough video available on the YouTube channel:  
-  👉 **YouTube Channel:** https://www.youtube.com/@BYTESBYBYTES0
-
 - All datasets used in the projects are located in the `datasets/` folder.
 
 
