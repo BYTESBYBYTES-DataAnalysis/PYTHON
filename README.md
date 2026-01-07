@@ -19,7 +19,7 @@ This repository is dedicated to projects focused on Python for data analysis, da
 
 ## Additional Learning Resources
 
- Cheat sheets for these projects are available on the website:  
+ - Cheat sheets for these projects are available on the website:  
   👉 **Website:** https://your-website-here.com
 
 - Each project also has a walkthrough video available on the YouTube channel:  
